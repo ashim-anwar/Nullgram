@@ -9,7 +9,7 @@ plugins {
     id("com.android.application")
     id("com.google.gms.google-services")
     id("com.google.firebase.crashlytics")
-    id("com.github.triplet.play") version "3.8.3"
+    id("com.github.triplet.play") version "3.8.4"
     kotlin("android")
     kotlin("plugin.serialization") version Version.kotlin
 }
